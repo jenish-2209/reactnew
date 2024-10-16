@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/reactnew/static/css/main.9fc4b9d4.css",
-    "main.js": "/reactnew/static/js/main.153dc3a4.js",
-    "static/js/453.ed3810f9.chunk.js": "/reactnew/static/js/453.ed3810f9.chunk.js",
-    "static/media/fa-solid-900.ttf": "/reactnew/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/reactnew/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/reactnew/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/reactnew/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/reactnew/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/reactnew/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/reactnew/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/reactnew/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "main.css": "/reactnew/static/css/main.6b02d7ff.chunk.css",
+    "main.js": "/reactnew/static/js/main.116dde64.chunk.js",
+    "main.js.map": "/reactnew/static/js/main.116dde64.chunk.js.map",
+    "runtime~main.js": "/reactnew/static/js/runtime~main.c6c3e700.js",
+    "runtime~main.js.map": "/reactnew/static/js/runtime~main.c6c3e700.js.map",
+    "static/css/2.8ff73448.chunk.css": "/reactnew/static/css/2.8ff73448.chunk.css",
+    "static/js/2.cb6bc85a.chunk.js": "/reactnew/static/js/2.cb6bc85a.chunk.js",
+    "static/js/2.cb6bc85a.chunk.js.map": "/reactnew/static/js/2.cb6bc85a.chunk.js.map",
+    "static/js/3.c1a7ea53.chunk.js": "/reactnew/static/js/3.c1a7ea53.chunk.js",
+    "static/js/3.c1a7ea53.chunk.js.map": "/reactnew/static/js/3.c1a7ea53.chunk.js.map",
     "index.html": "/reactnew/index.html",
-    "main.9fc4b9d4.css.map": "/reactnew/static/css/main.9fc4b9d4.css.map",
-    "main.153dc3a4.js.map": "/reactnew/static/js/main.153dc3a4.js.map",
-    "453.ed3810f9.chunk.js.map": "/reactnew/static/js/453.ed3810f9.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.9fc4b9d4.css",
-    "static/js/main.153dc3a4.js"
-  ]
+    "precache-manifest.1b4c09a03a904c72f855d3dc6be21a00.js": "/reactnew/precache-manifest.1b4c09a03a904c72f855d3dc6be21a00.js",
+    "service-worker.js": "/reactnew/service-worker.js",
+    "static/css/2.8ff73448.chunk.css.map": "/reactnew/static/css/2.8ff73448.chunk.css.map",
+    "static/css/main.6b02d7ff.chunk.css.map": "/reactnew/static/css/main.6b02d7ff.chunk.css.map",
+    "static/media/all.min.css": "/reactnew/static/media/fa-v4compatibility.7c428138.woff2",
+    "static/media/PostDetail.css": "/reactnew/static/media/pattern-image-cta-bg.43b80408.png"
+  }
 }
