@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactnew/static/css/main.d511e648.chunk.css",
-    "main.js": "/reactnew/static/js/main.60ce86c9.chunk.js",
-    "main.js.map": "/reactnew/static/js/main.60ce86c9.chunk.js.map",
+    "main.css": "/reactnew/static/css/main.446fa2b3.chunk.css",
+    "main.js": "/reactnew/static/js/main.e77a68cf.chunk.js",
+    "main.js.map": "/reactnew/static/js/main.e77a68cf.chunk.js.map",
     "runtime~main.js": "/reactnew/static/js/runtime~main.c6c3e700.js",
     "runtime~main.js.map": "/reactnew/static/js/runtime~main.c6c3e700.js.map",
     "static/css/2.8ff73448.chunk.css": "/reactnew/static/css/2.8ff73448.chunk.css",
@@ -11,10 +11,10 @@
     "static/js/3.c1a7ea53.chunk.js": "/reactnew/static/js/3.c1a7ea53.chunk.js",
     "static/js/3.c1a7ea53.chunk.js.map": "/reactnew/static/js/3.c1a7ea53.chunk.js.map",
     "index.html": "/reactnew/index.html",
-    "precache-manifest.9d073f7367738c295aa5ab128b7e9e30.js": "/reactnew/precache-manifest.9d073f7367738c295aa5ab128b7e9e30.js",
+    "precache-manifest.d29a62d797764129371c549e70347dc4.js": "/reactnew/precache-manifest.d29a62d797764129371c549e70347dc4.js",
     "service-worker.js": "/reactnew/service-worker.js",
     "static/css/2.8ff73448.chunk.css.map": "/reactnew/static/css/2.8ff73448.chunk.css.map",
-    "static/css/main.d511e648.chunk.css.map": "/reactnew/static/css/main.d511e648.chunk.css.map",
+    "static/css/main.446fa2b3.chunk.css.map": "/reactnew/static/css/main.446fa2b3.chunk.css.map",
     "static/media/all.min.css": "/reactnew/static/media/fa-v4compatibility.7c428138.woff2",
     "static/media/PostDetail.css": "/reactnew/static/media/pattern-image-cta-bg.43b80408.png"
   }
